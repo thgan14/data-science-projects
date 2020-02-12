@@ -22,3 +22,6 @@
 
 #### 4. Production Model & Insights:
  - Create a function that takes in a CSV input, performs all necessary proprocessing and feature engineering and returns an output of the predicted prices
+
+### Results
+The final model achieved a score on kaggle that was in the top 10 of the private leaderboard and top 30 of the public leaderboard
