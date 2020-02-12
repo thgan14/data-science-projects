@@ -1,9 +1,9 @@
-Project 3: Web APIs & Classification
+# Web API scrppuing & Reddit postClassification
 
-Overview:
+## Overview:
 This project involves scraping 2 Subreddits for their post then building a classification model that will predict which subreddit and unseen post is from
 
-Subreddits used:
+## Subreddits used:
 World News - https://www.reddit.com/r/worldnews/
 Today I learned - https://www.reddit.com/r/todayilearned/
 
