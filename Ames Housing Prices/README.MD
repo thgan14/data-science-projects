@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Project
+# Ames Housing Prices Project
 
 ## Goals:
 1. Using linear regression, build a model that predicts Sale prices of houses in Ames Iowa
