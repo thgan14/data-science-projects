@@ -1,4 +1,4 @@
-# Capstone Project
+# Question Answering System 
 
 Question Answering system using Google's Natural Question dataset. This project is based on the kaggle competition from here: https://www.kaggle.com/c/tensorflow2-question-answering/overview
 
